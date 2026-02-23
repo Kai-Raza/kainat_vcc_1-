@@ -1,0 +1,24 @@
+Assignment instructions:
+Due date: Monday Feb 23rd (before class begins)
+Create a new Repo (on Github.com)
+name the repo: yourfirstname_vcc_1 (mikey_vcc_1) it's case sensitive!
+set yourself as owner
+add a description (it can be basic)
+make sure it is public (which is the default already)
+add a readme.md file (this is just a toggle switch, turn it on!)
+add a .gitignore (choose whatever you like)
+add a liscense file (again your choice, MIT is fine)
+click the 'create' button
+Clone it (remember to cd into that dir!) this will be done in the VS Code terminal
+add 5 files (I would use the touch command) such as .txt file .css .html (any type of text or code)
+make sure they are staged! (with an add???)
+commit the files (with a push) always best to confirm you push (check Github.com) commit count on Github.com will be 2
+modify 1 of the files and do another commit
+push again
+repeat 3 times
+the total commit count will be at least 5!
+run these two commands in your terminal:
+git log --oneline
+git remote -v
+take a screenshot of the output (cmd + shift + 3)
+save this screenshot as terminal
